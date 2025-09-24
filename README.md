@@ -1,9 +1,11 @@
 # Premier University
+
 # Spring 2025
+
 # Data Structure Lab (with C++)
 
-This repository contains all the code examples, algorithms, and implementations demonstrated in the **Data Structure Lab sessions**.  
-The goal of this repo is to provide students with ready-to-run code and explanations for each topic, including:
+This repository contains all the code examples, algorithms, and implementations demonstrated in the **Data Structure Laboratory**.  
+The goal of this repository is to provide students with ready-to-run code and explanations for each topic, including:
 
 - String
 - Arrays
@@ -13,16 +15,19 @@ The goal of this repo is to provide students with ready-to-run code and explanat
 - C++ Standard Template Library (STL)
 - Trees
 - Graphs
-  
+
 ---
 
 ## 🚀 How to Use
 
 Clone this repository:
+
 ```bash
 git clone https://github.com/sazid51/puc-dsl-code.git
+```
+
+```bash
 cd puc-dsl-code
 ```
 
-And Compile and Run your desired code.
-
+And Compile and Run your desired code in you favorite IDE.
