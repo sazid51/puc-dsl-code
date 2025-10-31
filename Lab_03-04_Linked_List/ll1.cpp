@@ -79,4 +79,5 @@ int main()
     cout<<"Key to search: ";
     cin>>key;
     SimpleSearch(head, key);
+    return 0;
 }
