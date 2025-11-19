@@ -5,7 +5,7 @@
 # Data Structure Lab (with C++)
 
 This repository contains all the code examples, algorithms, and implementations demonstrated in the **Data Structure Laboratory**.  
-The goal of this repository is to provide students with ready-to-run code and explanations for each topic, including:
+The goal of this repository is to provide students with ready-to-run code for each topic, including:
 
 - String
 - Arrays
@@ -30,4 +30,4 @@ git clone https://github.com/sazid51/puc-dsl-code.git
 cd puc-dsl-code
 ```
 
-And Compile and Run your desired code in you favorite IDE.
+Then Compile and Run your desired code in your favorite IDE.
